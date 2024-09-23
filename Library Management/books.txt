@@ -1,0 +1,6 @@
+C++ Programming Harsha 0 0
+C++ Programming Harsha Tech Publishers 5 101
+Data Structures Ramcharan Edu Publishers 3 102
+Algorithms Akshith Code Books 4 103
+Operating Systems Sharan System Publishers 2 104
+Frontend Adarsh Database Experts 6 105
